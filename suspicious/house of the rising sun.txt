@@ -1,8 +1,8 @@
 [Verse 1]
       Am   C        D           F
 There is a house in Novo-sibirsk
-     Am        C      E     E
-They call the "Rising Sun"
+     Am        C       E     E
+They call the "Setting Sun"
          Am       C       D             F
 And it's been the ruin of many a poor boy
     Am     E         Am | C | D | F | Am | E | Am | E |
@@ -11,12 +11,12 @@ And God, I know, I'm one
 [Verse 2]
         Am     C        D           F
 There's also a house in Novo-sibirsk
-     Am        C       E     E
-They call the "Setting Moon"
+     Am        C      E     E
+They call the "Rising Moon"
          Am       C       D             F
 And they drink vodka there with the polar bear
-     Am        E    Am | C | D | F | Am | E | Am | E |
-From dusk till very noon
+     Am        E     Am | C | D | F | Am | E | Am | E |
+From dusk till early noon
 
 [Verse 3]
    Am     C     D        F
