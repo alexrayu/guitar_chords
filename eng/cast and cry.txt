@@ -1,79 +1,76 @@
 [Intro]
-E5
-E5
+A5
+A5
 
 [Verse 1]
-Em
+Am
 Cast and cry, cast and cry
-Am                D
+Dm                Em
 Raise the million pylons high
-Em               C        Em
+Am
 All our kin were bound to fly
-C            D        Em
+F            G        Am
 For that far shore forlorn
 
 [Chorus]
-Em          G
+Am          C      N.C.
 Onward hie, onward hie
-Am             D
+Dm             G        N.C.
 Who but we may tame the sky
-Em         G
+Am         C             N.C.
 Who but we shall distant die
-C           D        Em
+F           G        Am
 On that far shore forlorn
 
-C-D
+Am/E Am/C Am
 
 [Verse 2]
-Em
+Am
 Velvet blue the meadows lie
-C                  D
+F                  G
 Though the haughty ones defy
-Em
+Am
 Gold shall never break our tie
-C           D        Em
+F           G        Am Am6
 To that far shore forlorn
 
 [Chorus]
-Em          G
-Onward hie, onward hie
-Am             D
+Am            C
+Onward hie,   onward hie
+Dm/F           G
 Who but we may tame the sky
-Em               G
+Am               C
 Who but we shall distant die
-C           D        Em     B
+F           G        Am     E
 On that far shore forlorn
 
-C-D-Em
-
-
 [Verse 3]
-Em
+Am
 Mouth to mouth and eye to eye
-Am                 D
+Dm                 Em
 Sleep where comets whisper by
-Em
+Am
 Sleep while constellations sigh
-C           D        Em
+F           G        Am
 Of that far shore forlorn
 
 [Chorus]
-Em          G
-Onward hie, onward hie
-Am/C           D
+Am            C
+Onward hie,   onward hie
+Dm/F           G
 Who but we may tame the sky
-Em               G
+Am               C
 Who but we shall distant die
-C           D        Em     B
+F           G        Am     E
 On that far shore forlorn   Ooooo-
 
-Em          G
-Onward hie, onward hie
-Am/C           D
+Am            C
+Onward hie,   onward hie
+Dm/F           G
 Who but we may tame the sky
-Em               G
+Am               C
 Who but we shall distant die
-C           D        C
+F           G        F6
 On that far shore forlorn
-C           D        Em
+F           G        Am
 On that far shore forlorn
