@@ -1,59 +1,67 @@
-[Intro] 0:00
+[Intro]
 
-[Verse 1] 0:08
-Am                   Dm     C
+[Verse 1]
+    Am               C
 Our fathers knelt to Talos, lads,
-F          C      G
+                  G
 one knee upon the snow,
-Am                 Dm       Am
+    Am    C
 and Talos has been dust and bones
   F        G        Am
 a thousand years or so.
 
-[Verse 2] 0:24
-Am                 Dm       C
+[Verse 2]
+   Am              C
 We met them at the Ail, and there
-F              C       G
+   Am                  G
 we fought them man for man;
-     F               G      Am
+     Dm               Am
 they let us keep the frozen lands,
         F            G        Am
 and the crown stayed in their hand.
 
-[Chorus 1] 0:41
-Am
+[Chorus]
+        Am            C
 North, arise! North, arise!
-C                  G
+    C              G
 The anvil fears no hammer!
-Am                           F
+          Am                 F
 Strike us once and strike us twice:
-C         G        A
+    C     G        Am
 the anvil fears no hammer!
 
-[Verse 3] 0:59
-     Am            Dm        C
+[Verse 3]
+     Am            C
 They take our iron for their swords,
-    F       C        G
+                     G
 our sons to bleed instead,
-    Am               Dm      Am
+    Dm               Am
 our pine to make the gallows when
-     F      G        Am
+     F               G
 they want a Northman dead.
 
-[Verse 4] 1:16
-     A               Dm      Am
+[Verse 4]
+     Am              C
 They hanged a man at Midford Cross
-    C                 G
+                      G
 for singing this same song.
-Am                 G
+    Dm             Am
 The ravens had his eyes, my lads,
          F     G       Am
 but they never got his tongue!
 
 [Chorus]
+        Am            C
+North, arise! North, arise!
+    C              G
+The anvil fears no hammer!
+          Am                 F
+Strike us once and strike us twice:
+    C     G        Am
+the anvil fears no hammer!
 
 [Interlude]
-Am | Am F | G Am | Am F | G
+Am
 
 [Verse 5](whispered)
 And if the king's men ask you, child,
@@ -62,34 +70,31 @@ you tell them it's a cradle song,
 and true in every word.
 
 [Verse 6]
-Am                   Dm     Am
+Am                   C
 Our fathers knelt to Talos, lads,
-    C                G
+                     G
 but we will kneel no more;
-    Am                   G
+    Dm                   Am
 and when the North comes south again,
-   C           G      Am
+   F           G      Am
 it won't knock at the door.
 
-[Chorus 3](hit each chord, then stop)
-Am
+[Chorus]
+        Am            C
 North, arise! North, arise!
-F
+    C              G
 The anvil fears no hammer!
-Am
+          Am                 F
 Strike us once and strike us twice:
-F                G
+    C     G        Am
 the anvil fears no hammer!
 
-[Final chorus] 2:53
-Am
+[Final chorus]
+        Am            C
 North, arise! North, arise!
-F                G
+    C              G
 The anvil fears no hammer!
-Am                           F
+          Am                 F
 Strike us once and strike us twice:
-C               Em      Am
+    C           G      Am
 the North shall be the hammer!
-
-[Outro] 3:10
-Am | Am F | G A5
